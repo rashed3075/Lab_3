@@ -7,10 +7,10 @@ namespace Lab_3
     class Student
     {
 
-        private string name;
-        private string id;
-        private string department;
-        private float cgpa;
+         string name;
+          string id;
+         string department;
+         float cgpa;
         public string Name
         {
             set { name = value; }
@@ -35,7 +35,7 @@ namespace Lab_3
             get { return cgpa; }
         }
 
-        public void showInfo()
+        public void ShowInfo()
         {
             Console.WriteLine("Student Name : " + Name);
             Console.WriteLine("ID : " + Id);
