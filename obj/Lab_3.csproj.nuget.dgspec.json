@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Aiub files\\C#\\Lab_3\\Lab_3.csproj": {}
+    "C:\\Users\\Mehreen\\Desktop\\Git Test\\Lab_3\\Lab_3.csproj": {}
   },
   "projects": {
-    "H:\\Aiub files\\C#\\Lab_3\\Lab_3.csproj": {
+    "C:\\Users\\Mehreen\\Desktop\\Git Test\\Lab_3\\Lab_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Aiub files\\C#\\Lab_3\\Lab_3.csproj",
+        "projectUniqueName": "C:\\Users\\Mehreen\\Desktop\\Git Test\\Lab_3\\Lab_3.csproj",
         "projectName": "Lab_3",
-        "projectPath": "H:\\Aiub files\\C#\\Lab_3\\Lab_3.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "H:\\Aiub files\\C#\\Lab_3\\obj\\",
+        "projectPath": "C:\\Users\\Mehreen\\Desktop\\Git Test\\Lab_3\\Lab_3.csproj",
+        "packagesPath": "C:\\Users\\Mehreen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehreen\\Desktop\\Git Test\\Lab_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mehreen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
